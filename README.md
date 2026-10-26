@@ -60,7 +60,7 @@ Once installed, manage your mod options directly in Opera GX:
 
 ## 📜 Credits & Disclaimer
 
-Created by **Yours Truly(aka Me)**.
+Created by **Yours Truly (aka Me)**.
 
 - **Original Work**: *Alya Sometimes Hides Her Feelings in Russian* by Sunsunsun / Momoco (KADOKAWA).
 - **Anime Adaptation**: Doga Kobo.
