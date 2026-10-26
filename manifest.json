@@ -1,0 +1,251 @@
+﻿{
+    "manifest_version":  3,
+    "name":  "Alya Kujo",
+    "description":  "Alisa Mikhailovna Kujou elegant, atmospheric. A mod for Roshidere / Alya Sometimes Hides Her Feelings in Russian.",
+    "version":  "1.2",
+    "icons":  {
+                  "512":  "icon_512.png"
+              },
+    "developer":  {
+                      "name":  "Aarush"
+                  },
+    "mod":  {
+                "license":  "license.txt",
+                "schema_version":  2,
+                "payload":  {
+                                "wallpaper":  [
+                                                  {
+                                                      "id":  "0",
+                                                      "name":  "Cyan Eyes",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alisa-mikhailovna-kujou-cyan-eyes-moewalls-com_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alisa-mikhailovna-kujou-cyan-eyes-moewalls-com_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alisa-mikhailovna-kujou-cyan-eyes-moewalls-com_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alisa-mikhailovna-kujou-cyan-eyes-moewalls-com_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "1",
+                                                      "name":  "Ep 1 Sc 129",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep1-129_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep1-129_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep1-129_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep1-129_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "3",
+                                                      "name":  "Ep 2 Sc 129",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-129_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-129_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-129_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-129_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "4",
+                                                      "name":  "Ep 2 Sc 130",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-130_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-130_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-130_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-130_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "5",
+                                                      "name":  "Ep 2 Sc 132",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-132_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-132_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-132_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep2-132_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "6",
+                                                      "name":  "Ep 4 Sc 131",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep4-131_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep4-131_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep4-131_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep4-131_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "7",
+                                                      "name":  "Ep 5 Sc 82",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep5-82_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep5-82_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep5-82_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep5-82_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "8",
+                                                      "name":  "Ep 6 Sc 93",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep6-93_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep6-93_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep6-93_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep6-93_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  },
+                                                  {
+                                                      "id":  "9",
+                                                      "name":  "Ep 9 Sc 43",
+                                                      "dark":  {
+                                                                   "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep9-43_HQ_noaudio.webm",
+                                                                   "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep9-43_HQ_first_frame.jpg",
+                                                                   "text_color":  "#F1F6FF",
+                                                                   "text_shadow":  "#080D1B"
+                                                               },
+                                                      "light":  {
+                                                                    "image":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep9-43_HQ_noaudio.webm",
+                                                                    "first_frame":  "wallpaper/alya_sometimes_hides_her_feelings_in_russian-ep9-43_HQ_first_frame.jpg",
+                                                                    "text_color":  "#F1F6FF",
+                                                                    "text_shadow":  "#080D1B"
+                                                                }
+                                                  }
+                                              ],
+                                "theme":  [
+                                              {
+                                                  "id":  "alya_theme",
+                                                  "name":  "Alya Kujo",
+                                                  "dark":  {
+                                                               "gx_accent":  {
+                                                                                 "h":  222,
+                                                                                 "s":  80,
+                                                                                 "l":  35
+                                                                             },
+                                                               "gx_secondary_base":  {
+                                                                                         "h":  224,
+                                                                                         "s":  54,
+                                                                                         "l":  7
+                                                                                     }
+                                                           },
+                                                  "light":  {
+                                                                "gx_accent":  {
+                                                                                  "h":  207,
+                                                                                  "s":  90,
+                                                                                  "l":  60
+                                                                              },
+                                                                "gx_secondary_base":  {
+                                                                                          "h":  221,
+                                                                                          "s":  50,
+                                                                                          "l":  13
+                                                                                      }
+                                                            }
+                                              }
+                                          ],
+                                "background_music":  [
+                                                         {
+                                                             "id":  "alya_bgm_01",
+                                                             "name":  "Alya Kujo BGM",
+                                                             "tracks":  [
+                                                                            "music/bg1.mp3"
+                                                                        ]
+                                                         }
+                                                     ],
+                                "browser_sounds":  [
+                                                       {
+                                                           "id":  "alya_browser_sounds",
+                                                           "name":  "Alya Kujo Sounds",
+                                                           "sounds":  {
+                                                                          "TAB_INSERT":  [
+                                                                                             "sounds/tabopen.wav"
+                                                                                         ],
+                                                                          "TAB_CLOSE":  [
+                                                                                            "sounds/tabclose.wav"
+                                                                                        ],
+                                                                          "HOVER":  [
+                                                                                        "sounds/hover.wav"
+                                                                                    ],
+                                                                          "CLICK":  [
+                                                                                        "sounds/click.wav"
+                                                                                    ],
+                                                                          "IMPORTANT_CLICK":  [
+                                                                                                  "sounds/click.wav"
+                                                                                              ],
+                                                                          "SWITCH_TOGGLE":  [
+                                                                                                "sounds/click.wav"
+                                                                                            ]
+                                                                      }
+                                                       }
+                                                   ],
+                                "page_styles":  [
+                                                    {
+                                                        "id":  "alya_web_mod",
+                                                        "name":  "Alya Kujo",
+                                                        "css":  [
+                                                                    "webmod/styles.css"
+                                                                ],
+                                                        "matches":  [
+                                                                        "https://*.reddit.com/*",
+                                                                        "https://www.reddit.com/*",
+                                                                        "https://*.twitch.tv/*",
+                                                                        "https://www.twitch.tv/*",
+                                                                        "https://*.x.com/*",
+                                                                        "https://x.com/*",
+                                                                        "https://*.twitter.com/*",
+                                                                        "https://*.youtube.com/*",
+                                                                        "https://www.youtube.com/*",
+                                                                        "https://*.github.com/*",
+                                                                        "https://github.com/*"
+                                                                    ]
+                                                    }
+                                                ]
+                            }
+            }
+}
