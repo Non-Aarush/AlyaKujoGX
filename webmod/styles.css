@@ -46,7 +46,16 @@ ytd-app, ytd-app > *, #content, ytd-page-manager {
     background: rgba(8,13,27,0.90) !important;
     backdrop-filter: blur(16px) !important;
 }
-tp-yt-app-drawer, #guide-inner-content {
+tp-yt-app-drawer[opened] #guide-inner-content,
+tp-yt-app-drawer[opened] {
+    background: rgba(8,13,27,0.85) !important;
+    backdrop-filter: blur(14px) !important;
+}
+tp-yt-app-drawer:not([opened]) {
+    background: transparent !important;
+    backdrop-filter: none !important;
+}
+ytd-mini-guide-renderer {
     background: rgba(8,13,27,0.85) !important;
     backdrop-filter: blur(14px) !important;
 }
